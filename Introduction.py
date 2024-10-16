@@ -66,8 +66,16 @@ listeDeMots = ("Nous", "sommes", "à", "Paris")
 for mots in listeDeMots:
  print(mots)
 
+# boucle while
 compteur = 10
 while compteur > 5:
  print(compteur)
  compteur= compteur - 2
 
+
+# fonctions
+
+def addition(a, b):
+ return a + b
+
+print(addition(30, 7))
