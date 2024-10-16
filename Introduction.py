@@ -59,4 +59,9 @@ print("CM1", CM1)
 Cinquieme=CP*2
 print("5 eme", Cinquieme)
 
+# bouchle for
 
+listeDeMots = ("Nous", "sommes", "à", "Paris")
+
+for mots in listeDeMots:
+ print(mots)
