@@ -65,3 +65,9 @@ listeDeMots = ("Nous", "sommes", "à", "Paris")
 
 for mots in listeDeMots:
  print(mots)
+
+compteur = 10
+while compteur > 5:
+ print(compteur)
+ compteur= compteur - 2
+
